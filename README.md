@@ -20,10 +20,8 @@ Kore-board is a web-based UI for Kubernetes multi-clusters management.  It allow
 ![cluster-visualization](./docs/images/feat-cluster-visualization.gif)
 
 ### Supports cluster and pod terminal mode.
-> 터미널 모드 지원.
 
 ![cluster-and-pod-terminal](./docs/images/feat-cluster-and-pod-terminal.gif)
-
 
 ## Getting Started
 
@@ -40,8 +38,6 @@ See [Installation Guide](./docs/user/installation.md) page for more information
 1. Open in your browser `http://<cluster-ip>:30080/`
 2. On the sign-in page, enter "kore3lab" as a token string and sign in
 
-
-
 ## [Documentation](./docs/README.md)
 
 * See [User Guide](./docs/user/README.md) page.
@@ -49,9 +45,7 @@ See [Installation Guide](./docs/user/installation.md) page for more information
 
 ## Demo
 
-
 [![Screenshot](./docs/images/sc-youtube.jpg)](https://www.youtube.com/watch?v=Z75pBBqL0u8)
-
 
 ## Contribution
 
