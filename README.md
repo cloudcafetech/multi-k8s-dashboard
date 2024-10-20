@@ -28,15 +28,15 @@ Kore-board is a web-based UI for Kubernetes multi-clusters management.  It allow
 ### Installation
 
 ```
-$ kubectl apply -f https://raw.githubusercontent.com/kore3lab/dashboard/master/scripts/install/kubernetes/recommended.yaml
+kubectl apply -f https://raw.githubusercontent.com/cloudcafetech/multi-k8s-dashboard/refs/heads/master/scripts/install/kubernetes/recommended.yaml
 ```
 
 See [Installation Guide](./docs/user/installation.md) page for more information
 
 ### Access
 
-1. Open in your browser `http://<cluster-ip>:30080/`
-2. On the sign-in page, enter "kore3lab" as a token string and sign in
+1. Open in your browser `http://<cluster-ip>:30070/`
+2. On the sign-in page, enter "admin2675" as a token string and sign in
 
 ## [Documentation](./docs/README.md)
 
