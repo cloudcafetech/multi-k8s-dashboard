@@ -41,7 +41,7 @@ See [Installation Guide](./docs/user/installation.md) page for more information
 ## [Documentation](./docs/README.md)
 
 * See [User Guide](./docs/user/README.md) page.
-* See [Developer Guide](./docs/developer/README.md) page.
+* See [Sign in Guide](./docs/user/config-sign-in.md) page.
 
 ## Demo
 
