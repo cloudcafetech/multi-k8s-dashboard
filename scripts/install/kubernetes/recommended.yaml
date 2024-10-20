@@ -176,6 +176,7 @@ spec:
           image: ghcr.io/kore3lab/kore-board.backend:latest
           imagePullPolicy: IfNotPresent
           args:
+            - --auth=strategy=cookie,secret=static-token,token=admin2675          
             - --kubeconfig=strategy=configmap,configmap=kore-board-kubeconfig,namespace=kore,filename=config
             - --metrics-scraper-url=http://metrics-scraper:8000
             - --terminal-url=http://terminal:3003
